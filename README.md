@@ -28,8 +28,7 @@ The system combines Artificial Intelligence and Computer Vision technologies to 
 
 - OpenCV
 - SpeechRecognition
-- pyttsx3 (Text-to-Speech)
-- Flask (if web application)
+- Text-to-Speech
 - Linus OS
 ---
 
